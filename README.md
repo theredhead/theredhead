@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer by both trade and hobby, with 40+ years (I started when I was 6) of programming experience — I started as a kid on my father's Apple II! My journey has taken me from writing code for tiny startups to massive enterprises, directly and indirectly, across many domains.
+I'm a software engineer by both trade and hobby, with 40+ years of programming experience — I started as a kid on my father's Apple II! My journey has taken me from writing code for tiny startups to massive enterprises, directly and indirectly, across many domains.
 
 I’ve written software for banks, shops, loyalty card systems, medical professionals, as well as tools for development and system administration. My passion? Doing work that matters socially, in any way I can.
 
