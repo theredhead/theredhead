@@ -14,16 +14,6 @@ I’ve written software for banks, shops, loyalty card systems, medical professi
 - **Hardware:** Microcontrollers, robotics (currently building a life-size R2-D2 to automate)
 - **Coaching:** Motivating a small group of women to learn C#, using inspiration from classic software books and hands-on challenges
 
-## ✨ Projects & Highlights
-
-- [**red.web**](https://github.com/theredhead/red.web) — Even if obsolete, still intricate and interesting!
-- [**generic-data-access-backend**](https://github.com/theredhead/generic-data-access-backend) — Flexible backend for data access
-- [**vacherin-constantin**](https://github.com/theredhead/vacherin-constantin) — Near real-time server monitoring
-- [**donderdagseweek**](https://github.com/theredhead/donderdagseweek) — Android app in Kotlin
-- [**resume**](https://github.com/theredhead/resume) — [My actual CV](https://www.theredhead.nl/cv.html), built with React
-- [**react-playground**](https://github.com/theredhead/react-playground), [**ESP32-Cheap-Yellow-Display**](https://github.com/theredhead/ESP32-Cheap-Yellow-Display), [**Avalonia.Samples**](https://github.com/theredhead/Avalonia.Samples), [**dash**](https://github.com/theredhead/dash)
-- ...and a lot more (even I’ve lost count!)
-
 ## 👩‍💻 Coaching & Mentorship
 
 I’m passionate about motivating and teaching others, especially women, to learn C#. I draw on a mix of classic books — _Code Complete_, _The Clean Coder_, _Clean Architecture_ (go Bob Martin!), _C# in Depth_, and Steve Krug’s _Don’t Make Me Think_ — plus hands-on challenges from FreeCodeCamp, Microsoft, Project Euler, and my own imagination. The goal: see results quickly and make learning fun.
